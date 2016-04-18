@@ -1,0 +1,17 @@
+[
+  {
+    "default_settings": [
+      {
+        "name": "PROMPT_1",
+        "value": "Welcome to Java. Java Bot",
+        "type": "text"
+      }
+    ],
+    "desc": "A sample bot written in Java, built for green-bot.",
+    "icon_class": "build",
+    "name": "java_bot",
+    "owner_cmd": "",
+    "short_desc": "A sample bot written in Java, built for green-bot.",
+    "repo_link": "https://github.com/green-bot/java_bot.git"
+  }
+]
